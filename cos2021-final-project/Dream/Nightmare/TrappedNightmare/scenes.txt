@@ -1,0 +1,12 @@
+5
+You are in a dark forest, surrounded by looming shadows. The trees whisper unintelligible secrets, their twisted branches clawing at the moonlight. The sound of snapping twigs behind you sends chills down your spine.
+You enter a narrow cave, the walls closing in around you. The damp air smells of mildew, and you can hear the distant sound of dripping water echoing through the darkness. The cave seems alive, groaning as if in pain.
+You find yourself in an abandoned house, the paint peeling from the walls like old skin. The faint ticking of a broken grandfather clock fills the room, its hands frozen in time. Shadows flicker across the walls, though nothing moves.
+You are in a misty graveyard, the air heavy with dread. The fog twists around the tombstones like spectral hands reaching for you. A cold breeze carries faint whispers, names and dates long forgotten etched into the stones.
+You see a faint light in the distance, a way out! The light pulses faintly like a heartbeat, drawing you closer. You run toward it, but the ground beneath your feet feels unstable, as if it might collapse at any moment.
+
+0 1 3
+0 2 6
+1 3 8
+2 4 4
+3 4 5

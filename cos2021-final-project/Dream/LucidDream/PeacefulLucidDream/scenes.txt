@@ -1,0 +1,51 @@
+17
+Short: You are in a meadow filled with blooming flowers.
+Detailed: The meadow stretches endlessly, bathed in golden sunlight. Flowers sway gently in the breeze as butterflies flit between them. The air carries a soothing floral fragrance, filling you with calm.
+
+Short: You walk through a quiet forest, sunlight filtering through the leaves.
+Detailed: The forest is peaceful, with sunlight dappling the mossy ground. Birds chirp softly above, and a nearby brook trickles faintly in the distance.
+
+Short: You find a tranquil lake, its surface glimmering in the moonlight.
+Detailed: The lake reflects the stars above, its waters calm and glass-like. A soft breeze rustles the reeds, and the distant call of a loon echoes through the still night.
+
+Short: You discover a hidden garden, vibrant with colors.
+Detailed: The garden is lush and vibrant, with flowers blooming in radiant colors. A small stream winds its way through, while butterflies flutter around in a tranquil dance.
+
+Short: You sit atop a hill, gazing at a serene valley.
+Detailed: Below you lies a patchwork of green fields and winding streams. The golden hues of the sunset cast a warm glow over the peaceful landscape.
+
+Short: You wander into a field of golden wheat swaying in the breeze.
+Detailed: The golden field ripples like an ocean under the breeze. The warm sunlight highlights each stalk, and the horizon seems endless.
+
+Short: You stroll along a cobblestone path lined with cherry blossom trees.
+Detailed: A soft pink canopy of blossoms shades the path, and petals drift gently to the ground. The sweet scent of flowers fills the air, bringing a sense of serenity.
+
+Short: You hear a soft melody echoing from a distant harp.
+Detailed: The harp’s melody drifts on the breeze, ethereal and calming. Each note seems to resonate within, leaving you with a deep sense of peace.
+
+Short: You climb a wooden bridge over a crystal-clear stream.
+Detailed: Beneath the bridge, the stream flows gently, sparkling in the sunlight. The soothing sound of water accompanies your quiet steps.
+
+Short: You relax on a hammock between two ancient oak trees.
+Detailed: The hammock sways gently as you look up at the canopy of leaves. A soft breeze rustles the branches, creating a sense of safety and peace.
+
+Short: You explore a grove of trees glowing faintly with bioluminescent light.
+Detailed: The trees glow softly in shades of green and blue, illuminating the grove in a magical light. Fireflies weave through the air like tiny stars.
+
+Short: You find a small cottage surrounded by fragrant herbs and flowers.
+Detailed: The cottage is cozy, surrounded by lavender and rosemary. A faint hum of bees fills the air as a breeze carries the sweet herbal scent.
+
+Short: You sit by a campfire under a sky full of stars.
+Detailed: The campfire crackles warmly as you gaze at the stars. The vast sky stretches endlessly, filled with shimmering constellations.
+
+Short: You walk through a lush bamboo forest, the sound of rustling leaves all around.
+Detailed: The tall bamboo sways gently in the wind, the leaves rustling like whispers. The forest is cool and serene, a world unto itself.
+
+Short: You follow a path that leads to a quiet beach with gentle waves.
+Detailed: The beach is calm, the waves lapping softly at the shore. The sun sets in the distance, painting the sky in warm hues.
+
+Short: You gaze at a sunset, painting the horizon in hues of orange and pink.
+Detailed: The sky glows with fiery colors as the sun dips below the horizon. The soft breeze and stillness of the scene fill you with tranquility.
+
+Short: You find yourself by a tranquil waterfall.
+Detailed: The waterfall cascades gracefully into a crystal-clear pool, its soft roar blending with the chirping of birds. The misty spray cools your skin as sunlight creates a rainbow in the air. The serenity of the scene makes time feel like it has stopped.

@@ -1,0 +1,51 @@
+17
+Short: You find yourself in an endless hallway of mirrors.
+Detailed: The mirrors reflect infinite versions of you, each slightly different. Some smile while others look somber, and as you move forward, the reflections ripple like water, whispering echoes of forgotten dreams. Faint laughter echoes from deep within the hall, teasing you to keep going.
+
+Short: You walk into a glowing forest.
+Detailed: The forest glows with an eerie, almost magical light, and the trees seem alive, their branches weaving intricate patterns against the sky. The leaves shimmer like emeralds in the dim light, and you hear the faint sound of a distant harp, as though the forest itself is singing.
+
+Short: You stumble upon a clearing with a mysterious stone circle.
+Detailed: The stone circle hums with ancient energy, its surface etched with symbols that seem to shift when you try to read them. A faint mist hovers just above the ground, and the stones seem to vibrate with a life of their own. The air feels thick with mystery, as though time itself has stopped here.
+
+Short: You enter a quiet garden filled with white roses.
+Detailed: The garden is serene, the roses glowing softly in the moonlight. Their delicate scent fills the air with an otherworldly charm. A small fountain in the center trickles softly, and the petals of the roses seem to sparkle like stars. You feel as though you’ve stepped into a dream within a dream.
+
+Short: You cross a wooden bridge over a dark river.
+Detailed: The river flows silently beneath you, its black waters reflecting a sky full of unfamiliar stars. The bridge creaks with every step, and the air feels colder the further you go. A soft, distant voice whispers from the riverbank, though no one is there.
+
+Short: You climb a staircase that spirals endlessly into the sky.
+Detailed: The stairs seem to stretch forever, disappearing into a canopy of shimmering stars. Each step feels heavier, as if time itself resists your ascent. A warm breeze flows downward, carrying the faint scent of lavender and the echo of a voice encouraging you to continue.
+
+Short: You arrive at a door glowing with golden light.
+Detailed: The door radiates warmth and safety, its golden glow casting long shadows across the ground. Behind it, you feel the promise of escape. The handle is smooth and warm to the touch, and faint melodies seem to come from beyond, beckoning you to open it.
+
+Short: You stand in a vast desert, the sand sparkling like diamonds.
+Detailed: The air is still, and the horizon stretches infinitely. The shimmering sands hold a quiet mystery, as if each grain has its own story. In the distance, a lone tree sways gently, though no wind touches the desert. It feels as though the desert is alive, waiting for your next move.
+
+Short: You explore a library with towering shelves of glowing books.
+Detailed: Each book emits a faint glow, and the titles seem to change depending on where you stand. The air hums with the power of untold stories. A faint golden light spills from a higher shelf, and when you touch the books, they feel warm, as if holding secrets meant only for you.
+
+Short: You step into a cave adorned with shimmering crystals.
+Detailed: The crystals emit a soft, rainbow-colored glow, lighting your path as the sound of dripping water echoes through the cave. Each crystal seems to pulse faintly, resonating with your breath. A soft hum fills the space, as though the cave itself is alive, welcoming you.
+
+Short: You walk along a path lined with lanterns that float in mid-air.
+Detailed: The lanterns hover, casting soft light that dances like fireflies. The path seems endless, yet comforting, as if it’s leading you home. Each lantern flickers in a unique rhythm, and their light seems to respond to your thoughts, glowing brighter the more hopeful you feel.
+
+Short: You find yourself on a boat drifting through a starry river.
+Detailed: The water glows faintly, and the stars above seem close enough to touch. The boat moves silently, as if guided by an invisible force. The river whispers soft secrets of the cosmos, and the gentle rocking of the boat feels like a lullaby from the universe.
+
+Short: You wander into a grove of ancient trees, their roots tangled like webs.
+Detailed: The trees seem to watch you, their twisted roots forming a labyrinth at your feet. The air is thick with the scent of moss and earth. A single beam of light pierces through the canopy, illuminating a path forward, as if the grove itself is guiding you.
+
+Short: You discover a serene meadow surrounded by towering mountains.
+Detailed: The meadow is peaceful, the mountains looming in the distance like silent guardians. Wildflowers sway in the breeze, and a brook winds through the grass, its melody blending with the distant call of birds. The air feels sacred, as though untouched by time.
+
+Short: You cross a bridge of light spanning an endless chasm.
+Detailed: The bridge glows with an ethereal light, and below you, the void stretches infinitely. Each step feels as if you’re walking on air. A faint hum rises from the chasm, and the light of the bridge pulses gently with each heartbeat, reassuring you to keep going.
+
+Short: You stand at the edge of a cliff, overlooking a vast ocean of clouds.
+Detailed: The clouds shift and swirl like waves, reflecting the colors of the setting sun. The view is breathtaking, a reminder of the beauty of dreams. The wind brushes past you softly, carrying the scent of rain and the promise of something wonderful waiting just beyond the horizon.
+
+Short: You find yourself by a tranquil waterfall.
+Detailed: The waterfall cascades gracefully into a crystal-clear pool, its soft roar blending with the chirping of birds. The misty spray cools your skin as sunlight creates a rainbow in the air. The serenity of the scene makes time feel like it has stopped.
