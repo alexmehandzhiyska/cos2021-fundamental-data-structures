@@ -1,0 +1,31 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" -S "/Users/alexandrinamehandzhiyska/Library/Mobile Documents/com~apple~CloudDocs/aubg/semester-03/cos2021-fundamental-data-structures/cos2021-homework/cos2021-homework-04" -B "/Users/alexandrinamehandzhiyska/Library/Mobile Documents/com~apple~CloudDocs/aubg/semester-03/cos2021-fundamental-data-structures/cos2021-homework/cos2021-homework-04/cmake-build-debug"
+-- The C compiler identification is AppleClang 15.0.0.15000309
+-- The CXX compiler identification is AppleClang 15.0.0.15000309
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - broken
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "/Library/Developer/CommandLineTools/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /Users/alexandrinamehandzhiyska/Library/Mobile Documents/com~apple~CloudDocs/aubg/semester-03/cos2021-fundamental-data-structures/cos2021-homework/cos2021-homework-04/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-g3acYA
+    
+    Run Build Command(s):/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E env VERBOSE=1 /usr/bin/gcc -f Makefile cmTC_80c6d/fast && clang: error: unknown argument: '-f'
+    clang: error: no such file or directory: 'cmTC_80c6d/fast'
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
